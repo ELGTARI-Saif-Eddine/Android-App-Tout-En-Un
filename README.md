@@ -2,14 +2,12 @@
 (JAVA) Android Application Tout-En-Un
 
 
-# Android Application Recharger-Facilement
-(JAVA) Android Application Recharger Facilement
 
 [![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Tout-En-Un/blob/main/images/icon.png)](https://play.google.com/store/apps/details?id=com.gtari.deltatechenologie.rechargerfacilement)
 
-# Android Application: Reload Mobile Cards Automatically
+# Android Application: Tout-En-Un (All-in-one)
 
-**KEYWORDS:** JAVA, Android Studio, Windows 10, HTML & CSS, Firebase, OpenCV, Deep Learning.  
+**KEYWORDS:** JAVA, Android Studio, Windows 10, HTML & CSS, Firebase.  
 
 ## Description:
 Simple application which allows the user to read the recharge card with the camera directly and perform the recharge operation directly. Without user intervention.
