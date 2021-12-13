@@ -3,7 +3,7 @@
 
 
 
-[![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Tout-En-Un/blob/main/images/icon.png)](https://play.google.com/store/apps/details?id=com.gtari.deltatechenologie.rechargerfacilement)
+[![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Tout-En-Un/blob/main/images/icon.png)](https://play.google.com/store/apps/details?id=com.gtari.deltatechenologie.elkolxelkol)
 
 # Android Application: Tout-En-Un (All-in-one)
 
@@ -16,7 +16,7 @@ I based on the new technologies of artificial intelligence to realize the applic
 
 
 ### _Play store link:_
-[![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Tout-En-Un/blob/main/images/goo.png)](https://play.google.com/store/apps/details?id=com.gtari.deltatechenologie.rechargerfacilement)
+[![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Tout-En-Un/blob/main/images/goo.png)](https://play.google.com/store/apps/details?id=com.gtari.deltatechenologie.elkolxelkol)
 
 
 
